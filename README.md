@@ -2,6 +2,8 @@
 
 In this assignment we had to create a password generator using only the given HTML, CSS, and JavaScript. 
 
+Use this generator to create secure passwords, you will see prompts and instructions on how to do so.
+
 ## Acceptance Criteria
 
 ```
@@ -21,6 +23,6 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-Git repo URL: 
+Git repo URL: https://github.com/dthompasionas/password-generator
 
-deployed site URL: 
+deployed site URL: https://dthompasionas.github.io/password-generator/
